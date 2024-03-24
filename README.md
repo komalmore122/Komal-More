@@ -1,13 +1,15 @@
-👋 Hello, I'm Komal Bapu More.
+👋 Welcome to my GitHub profile!, I'm Komal More.
 |
-🎓 I graduated my BE from Sinhgad college of Engineering in Information Technology.
+🎓 I'm a dedicated professional with a background in Bachelor of Engineering in Information Technology (BE IT) and I also have complemented a certification course in Data Science.
 |
-🌱 I’m looking for Data Science opportunities. 
+🖋️ I regularly work on kaggle datasets & also opt for new certifications & cources to keep myself up to date and learning new techniques.
 |
-💻 I'm interested in challenging position in PowerBI.
+💻 With a solid foundation in technology as well as functional area, I got a hands-on experience as a Business Analyst & Currently, looking for new opportunities.
 |
-🖋️ I'm actively working with kaggle datasets.
+🎯 My Goal is to utilize my skills and abilities to contribute to the organisational Growth and Success.
 |
-🎯 Goal (2021): Contribute openly to Data Science and PowerBI community.
+🌱 I keep myself active by persuing my hobbies of singing, workout, dancing, cooking, on daily basis during my leisure time.
 |
-📫 Email id - komalmore122@gmail.com
+📫 Email id - komalmore122@gmail.com / komalmore195@gmail.com 
+|
+📫 LinkedIn - https://www.linkedin.com/in/komal-more-9086b6179
