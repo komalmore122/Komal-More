@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub profile!, I'm Komal More.
 |
-🎓 I'm a dedicated professional with a background in Bachelor of Engineering in Information Technology (BE IT) and I also have complemented a certification course in Data Science.
+🎓 I'm a dedicated professional with a background in Bachelor of Engineering in Information Technology (BE_IT) and I also have complemented a certification course in Data Science.
 |
 🖋️ I regularly work on kaggle datasets & also opt for new certifications & cources to keep myself up to date and learning new techniques.
 |
